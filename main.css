@@ -1,0 +1,1091 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Mulish:400,800,700,600");
+* {
+  box-sizing: border-box;
+}
+.gr-list {
+  background-color: var(--river-bed);
+  height: 900px;
+  overflow: hidden;
+  position: relative;
+  width: 1779px;
+}
+.gr-list .back {
+  left: 61px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 764px;
+}
+.gr-list .created-month {
+  left: 309px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 180px;
+  width: 215px;
+}
+.gr-list .date {
+  left: 1089px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 351px;
+}
+.gr-list .date-1 {
+  left: 1233px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 351px;
+}
+.gr-list .date-2 {
+  left: 1358px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 351px;
+}
+.gr-list .date-3 {
+  left: 1358px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 430px;
+}
+.gr-list .date-4 {
+  left: 1089px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 431px;
+}
+.gr-list .date-5 {
+  left: 1233px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 431px;
+}
+.gr-list .delivery-date {
+  left: 1216px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 289px;
+  width: 53px;
+}
+.gr-list .delivery-date-1 {
+  left: 309px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 568px;
+  width: 215px;
+}
+.gr-list .delivery-month {
+  left: 309px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 432px;
+  width: 215px;
+}
+.gr-list .divider {
+  height: 2px;
+  left: 9px;
+  position: absolute;
+  top: 78px;
+  width: 255px;
+}
+.gr-list .ellipse {
+  height: 32px;
+  left: 32px;
+  position: absolute;
+  top: 30px;
+  width: 32px;
+}
+.gr-list .export-file {
+  left: 873px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 195px;
+}
+.gr-list .frame- {
+  align-items: center;
+  background-color: var(--dodger-blue);
+  border-radius: 10px;
+  display: flex;
+  height: 25px;
+  justify-content: flex-end;
+  min-width: 59px;
+  padding: 0 9px;
+}
+.gr-list .frame-13 {
+  align-items: flex-start;
+  display: flex;
+  height: 25px;
+  left: 884px;
+  min-width: 135px;
+  position: absolute;
+  top: 370px;
+}
+.gr-list .frame-14 {
+  align-items: flex-start;
+  display: flex;
+  height: 25px;
+  left: 887px;
+  min-width: 132px;
+  position: absolute;
+  top: 450px;
+}
+.gr-list .frame-6 {
+  align-items: center;
+  background-color: var(--dodger-blue);
+  border-radius: 10px;
+  display: flex;
+  height: 25px;
+  justify-content: flex-end;
+  left: 732px;
+  min-width: 59px;
+  padding: 0 9px;
+  position: absolute;
+  top: 370px;
+}
+.gr-list .frame-7 {
+  align-items: center;
+  background-color: var(--my-sin);
+  border-radius: 10px;
+  display: flex;
+  height: 25px;
+  justify-content: flex-end;
+  margin-left: 8px;
+  min-width: 68px;
+  padding: 0 9px;
+}
+.gr-list .frame-8 {
+  align-items: center;
+  background-color: var(--dodger-blue);
+  border-radius: 10px;
+  display: flex;
+  height: 25px;
+  justify-content: flex-end;
+  left: 732px;
+  min-width: 59px;
+  padding: 0 9px;
+  position: absolute;
+  top: 450px;
+}
+.gr-list .frame-9 {
+  align-items: center;
+  background-color: var(--my-sin);
+  border-radius: 10px;
+  display: flex;
+  height: 25px;
+  justify-content: flex-end;
+  margin-left: 5px;
+  min-width: 68px;
+  padding: 0 9px;
+}
+.gr-list .getapp-24px-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 16px;
+  left: 853px;
+  padding: 1.7px 3px;
+  position: absolute;
+  top: 197px;
+  width: 16px;
+}
+.gr-list .goods-recieve-code {
+  left: 878px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 289px;
+  width: 90px;
+}
+.gr-list .gr {
+  letter-spacing: 0.2px;
+  min-height: 15px;
+  min-width: 48px;
+  text-align: left;
+}
+.gr-list .li {
+  color: white;
+  font-family: "Mulish", Helvetica, Arial, serif;
+  font-size: 16px;
+  font-weight: 800;
+  left: 41px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+}
+.gr-list .line-12 {
+  height: 1px;
+  left: 657px;
+  position: absolute;
+  top: 412px;
+  width: 1128px;
+}
+.gr-list .line-28 {
+  height: 1px;
+  left: 281px;
+  position: absolute;
+  top: 274px;
+  width: 311px;
+}
+.gr-list .line-4 {
+  height: 60px;
+  left: 866px;
+  position: absolute;
+  top: 274px;
+  width: 1px;
+}
+.gr-list .line-41 {
+  height: 1px;
+  left: 655px;
+  position: absolute;
+  top: 246px;
+  width: 785px;
+}
+.gr-list .line-49 {
+  height: 1px;
+  left: 657px;
+  position: absolute;
+  top: 333px;
+  width: 1252px;
+}
+.gr-list .line-5 {
+  height: 60px;
+  left: 1207px;
+  position: absolute;
+  top: 274px;
+  width: 2px;
+}
+.gr-list .line-50 {
+  height: 1px;
+  left: 281px;
+  position: absolute;
+  top: 400px;
+  width: 311px;
+}
+.gr-list .line-51 {
+  height: 1px;
+  left: 281px;
+  position: absolute;
+  top: 526px;
+  width: 311px;
+}
+.gr-list .line-52 {
+  height: 1px;
+  left: 281px;
+  position: absolute;
+  top: 662px;
+  width: 311px;
+}
+.gr-list .line-53 {
+  height: 60px;
+  left: 1036px;
+  position: absolute;
+  top: 274px;
+  width: 1px;
+}
+.gr-list .line-54 {
+  height: 60px;
+  left: 1452px;
+  position: absolute;
+  top: 274px;
+  width: 1px;
+}
+.gr-list .line-6 {
+  height: 60px;
+  left: 1325px;
+  position: absolute;
+  top: 274px;
+  width: 2px;
+}
+.gr-list .line-7 {
+  height: 60px;
+  left: 1568px;
+  position: absolute;
+  top: 274px;
+  width: 2px;
+}
+.gr-list .line-8 {
+  height: 60px;
+  left: 1671px;
+  position: absolute;
+  top: 357px;
+  width: 2px;
+}
+.gr-list .menu {
+  align-items: flex-end;
+  display: flex;
+  height: 1199px;
+  left: 1px;
+  min-width: 279px;
+  position: absolute;
+  top: 2px;
+}
+.gr-list .number {
+  color: var(--gray);
+  font-family: "Mulish", Helvetica, Arial, serif;
+  font-size: 20px;
+  left: 1372px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 189px;
+  width: 12px;
+}
+.gr-list .number-1 {
+  left: 1620px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 351px;
+}
+.gr-list .number-2 {
+  left: 1620px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 431px;
+}
+.gr-list .overlap-group {
+  height: 1201px;
+  left: 0px;
+  position: absolute;
+  top: -2px;
+  width: 1909px;
+}
+.gr-list .overlap-group1 {
+  height: 13px;
+  position: relative;
+  width: 13px;
+}
+.gr-list .overlap-group2 {
+  height: 12px;
+  position: relative;
+  width: 10px;
+}
+.gr-list .overlap-group3 {
+  height: 1351px;
+  margin-bottom: -151px;
+  position: relative;
+  width: 279px;
+}
+.gr-list .phone {
+  left: 309px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 615px;
+  width: 142px;
+}
+.gr-list .polygon-1 {
+  height: 6px;
+  left: 797px;
+  position: absolute;
+  top: 298px;
+  width: 8px;
+}
+.gr-list .polygon-1-1 {
+  height: 6px;
+  left: 972px;
+  position: absolute;
+  top: 298px;
+  width: 8px;
+}
+.gr-list .polygon-1-2 {
+  height: 6px;
+  left: 1171px;
+  position: absolute;
+  top: 298px;
+  width: 8px;
+}
+.gr-list .polygon-1-3 {
+  height: 6px;
+  left: 1273px;
+  position: absolute;
+  top: 298px;
+  width: 8px;
+}
+.gr-list .polygon-1-4 {
+  height: 6px;
+  left: 1433px;
+  position: absolute;
+  top: 298px;
+  width: 8px;
+}
+.gr-list .polygon-1-5 {
+  height: 6px;
+  left: 1553px;
+  position: absolute;
+  top: 298px;
+  width: 8px;
+}
+.gr-list .polygon-1-6 {
+  height: 6px;
+  left: 1656px;
+  position: absolute;
+  top: 381px;
+  width: 8px;
+}
+.gr-list .polygon-1-7 {
+  height: 8px;
+  left: 544px;
+  position: absolute;
+  top: 32px;
+  width: 10px;
+}
+.gr-list .polygon-2 {
+  height: 6px;
+  left: 797px;
+  position: absolute;
+  top: 304px;
+  width: 8px;
+}
+.gr-list .polygon-2-1 {
+  height: 6px;
+  left: 972px;
+  position: absolute;
+  top: 304px;
+  width: 8px;
+}
+.gr-list .polygon-2-2 {
+  height: 6px;
+  left: 1171px;
+  position: absolute;
+  top: 304px;
+  width: 8px;
+}
+.gr-list .polygon-2-3 {
+  height: 6px;
+  left: 1273px;
+  position: absolute;
+  top: 304px;
+  width: 8px;
+}
+.gr-list .polygon-2-4 {
+  height: 6px;
+  left: 1433px;
+  position: absolute;
+  top: 304px;
+  width: 8px;
+}
+.gr-list .polygon-2-5 {
+  height: 6px;
+  left: 1553px;
+  position: absolute;
+  top: 304px;
+  width: 8px;
+}
+.gr-list .polygon-2-6 {
+  height: 6px;
+  left: 1656px;
+  position: absolute;
+  top: 387px;
+  width: 8px;
+}
+.gr-list .polygon-2-7 {
+  height: 8px;
+  left: 544px;
+  position: absolute;
+  top: 40px;
+  width: 10px;
+}
+.gr-list .rectangle-12 {
+  background-color: var(--river-bed);
+  height: 898px;
+  left: 281px;
+  position: absolute;
+  top: 0px;
+  width: 1159px;
+}
+.gr-list .rectangle-19x {
+  background-color: rgba(81, 92, 104, 1);
+  border-radius: 10px;
+  box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.05);
+  height: 392px;
+  left: 634px;
+  position: absolute;
+  top: 156px;
+  width: 1064px;
+}
+.gr-list .rectangle-24 {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 32px;
+  left: 656px;
+  position: absolute;
+  top: 188px;
+  width: 179px;
+}
+.gr-list .rectangle-25 {
+  background-color: white;
+  border-radius: 10px;
+  height: 34px;
+  left: 1318px;
+  position: absolute;
+  top: 186px;
+  width: 122px;
+}
+.gr-list .rectangle-253 {
+  background-color: var(--bright-gray);
+  box-shadow: 4px 0px 14px rgba(0, 0, 0, 0.05);
+  height: 901px;
+  left: 279px;
+  position: absolute;
+  top: 1px;
+  width: 313px;
+}
+.gr-list .rectangle-26k {
+  height: 34px;
+  left: 1318px;
+  position: absolute;
+  top: 186px;
+  width: 42px;
+}
+.gr-list .rectangle-27 {
+  height: 34px;
+  left: 1398px;
+  position: absolute;
+  top: 186px;
+  width: 42px;
+}
+.gr-list .rectangle-28 {
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+  box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.05);
+  height: 220px;
+  left: 657px;
+  position: absolute;
+  top: 273px;
+  width: 947px;
+}
+.gr-list .rectangle-292 {
+  background-color: var(--bright-gray);
+  box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.1);
+  height: 76px;
+  left: 280px;
+  position: absolute;
+  top: 2px;
+  width: 1161px;
+}
+.gr-list .rectangle-363 {
+  background-color: rgba(244, 244, 244, 0.5);
+  border-radius: 10px;
+  height: 44px;
+  left: 323px;
+  position: absolute;
+  top: 19px;
+  width: 243px;
+}
+.gr-list .rectangle-369 {
+  background-color: white;
+  border-radius: 10px;
+  height: 19px;
+  left: 657px;
+  position: absolute;
+  top: 509px;
+  width: 755px;
+}
+.gr-list .rectangle-370 {
+  height: 19px;
+  left: 657px;
+  position: absolute;
+  top: 509px;
+  width: 272px;
+}
+.gr-list .rectangle-387 {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 33px;
+  left: 37px;
+  position: absolute;
+  top: 755px;
+  width: 78px;
+}
+.gr-list .rectangle-42 {
+  background-color: var(--gray);
+  border-radius: 10px;
+  height: 32px;
+  left: 845px;
+  position: absolute;
+  top: 188px;
+  width: 109px;
+}
+.gr-list .rectangle-6 {
+  background-color: rgba(54, 61, 68, 1);
+  height: 1350px;
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 279px;
+}
+.gr-list .riadvertisement-fill {
+  align-items: center;
+  display: flex;
+  height: 16px;
+  padding: 0 1px;
+  width: 16px;
+}
+.gr-list .search-24px-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 17px;
+  left: 668px;
+  padding: 1.8px;
+  position: absolute;
+  top: 195px;
+  width: 17px;
+}
+.gr-list .sheet {
+  height: 42px;
+  left: 0px;
+  position: absolute;
+  top: 385px;
+  width: 279px;
+}
+.gr-list .sidebar-list-active {
+  align-items: center;
+  display: flex;
+  height: 56px;
+  justify-content: flex-end;
+  left: 0px;
+  min-width: 255px;
+  padding: 0 8px;
+  position: absolute;
+  top: 938px;
+}
+.gr-list .status {
+  letter-spacing: 0.2px;
+  min-height: 15px;
+  min-width: 39px;
+  text-align: left;
+}
+.gr-list .surname {
+  left: 655px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 102px;
+}
+.gr-list .surname-1 {
+  left: 1339px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 289px;
+  width: 88px;
+}
+.gr-list .surname-2 {
+  left: 1459px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 295px;
+  width: 80px;
+}
+.gr-list .text-1 {
+  left: 695px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 196px;
+}
+.gr-list .text-10 {
+  left: 309px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 479px;
+  width: 142px;
+}
+.gr-list .text-11 {
+  left: 1466px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: center;
+  top: 351px;
+  width: 102px;
+}
+.gr-list .text-12 {
+  left: 1466px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: center;
+  top: 431px;
+  width: 102px;
+}
+.gr-list .text-13 {
+  left: 335px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 33px;
+}
+.gr-list .text-2 {
+  left: 669px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 292px;
+  width: 124px;
+}
+.gr-list .text-3 {
+  left: 1045px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 289px;
+  width: 124px;
+}
+.gr-list .text-4 {
+  left: 687px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 350px;
+}
+.gr-list .text-5 {
+  left: 687px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 430px;
+}
+.gr-list .text-6 {
+  left: 876px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 350px;
+}
+.gr-list .text-7 {
+  left: 875px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 430px;
+}
+.gr-list .text-8 {
+  left: 309px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 227px;
+  width: 93px;
+}
+.gr-list .text-9 {
+  left: 309px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 353px;
+  width: 142px;
+}
+.gr-list .title {
+  align-self: flex-end;
+  letter-spacing: 0.2px;
+  margin-left: 24px;
+  min-height: 38px;
+  text-align: left;
+  width: 175px;
+}
+.gr-list .title-1 {
+  left: 90px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 917px;
+  width: 161px;
+}
+.gr-list .title-10 {
+  left: 58px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 487px;
+  width: 193px;
+}
+.gr-list .title-2 {
+  left: 90px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 996px;
+  width: 152px;
+}
+.gr-list .title-3 {
+  left: 37px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 108px;
+  width: 161px;
+}
+.gr-list .title-4 {
+  left: 58px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 148px;
+  width: 126px;
+}
+.gr-list .title-5 {
+  left: 37px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 200px;
+  width: 171px;
+}
+.gr-list .title-6 {
+  left: 37px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 293px;
+  width: 171px;
+}
+.gr-list .title-7 {
+  left: 58px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 333px;
+  width: 193px;
+}
+.gr-list .title-8 {
+  left: 58px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 394px;
+  width: 193px;
+}
+.gr-list .title-9 {
+  left: 37px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 447px;
+  width: 171px;
+}
+.gr-list .title4 {
+  left: 58px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 240px;
+  width: 193px;
+}
+.gr-list .total-qty {
+  left: 1698px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 376px;
+  width: 80px;
+}
+.gr-list .username {
+  color: white;
+  font-family: "Mulish", Helvetica, Arial, serif;
+  font-size: 19px;
+  font-weight: 700;
+  left: 76px;
+  letter-spacing: 0.4px;
+  opacity: 0.7;
+  position: absolute;
+  text-align: left;
+  top: 34px;
+}
+.gr-list .vector {
+  height: 12px;
+  width: 14px;
+}
+.gr-list .vector-1 {
+  height: 1px;
+  left: 6px;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+.gr-list .vector-2 {
+  height: 13px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+.gr-list .vector-3 {
+  height: 1px;
+  left: 5px;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+.gr-list .vector-4 {
+  height: 12px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 10px;
+}
+.gr-list .vector-5 {
+  height: 9px;
+  left: 1416px;
+  position: absolute;
+  top: 198px;
+  width: 6px;
+}
+.gr-list .vector-6 {
+  height: 13px;
+  left: 841px;
+  position: absolute;
+  top: 297px;
+  width: 13px;
+}
+.gr-list .vector-7 {
+  height: 13px;
+  left: 1012px;
+  position: absolute;
+  top: 297px;
+  width: 13px;
+}
+.gr-list .vector-8 {
+  height: 13px;
+  left: 1185px;
+  position: absolute;
+  top: 297px;
+  width: 13px;
+}
+.gr-list .vector-9 {
+  height: 13px;
+  left: 1301px;
+  position: absolute;
+  top: 298px;
+  width: 13px;
+}
+.gr-list .vectork {
+  height: 9px;
+  left: 1336px;
+  position: absolute;
+  top: 198px;
+  width: 6px;
+}
+.gr-list .vendor {
+  left: 309px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 306px;
+  width: 215px;
+}
+.gr-list .vendor-1 {
+  left: 1577px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  text-align: left;
+  top: 295px;
+  width: 80px;
+}
+.gray-border-1px {
+  border: 1px solid var(--gray);
+}
+.mercury-border-0-5px {
+  border: 0.5px solid var(--mercury);
+}
+.mercury-border-1px {
+  border: 1px solid var(--mercury);
+}
+.mulish-bold-concrete-16px {
+  color: var(--concrete);
+  font-family: "Mulish", Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+}
+.mulish-bold-hawkes-blue-16px {
+  color: var(--hawkes-blue);
+  font-family: "Mulish", Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+}
+.mulish-bold-white-12px {
+  color: white;
+  font-family: "Mulish", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+}
+.mulish-bold-white-30px {
+  color: white;
+  font-family: "Mulish", Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+}
+.mulish-normal-concrete-12px {
+  color: var(--concrete);
+  font-family: "Mulish", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.mulish-normal-concrete-16px {
+  color: var(--concrete);
+  font-family: "Mulish", Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+}
+.mulish-normal-hawkes-blue-16px {
+  color: var(--hawkes-blue);
+  font-family: "Mulish", Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+}
+.mulish-normal-white-12px {
+  color: white;
+  font-family: "Mulish", Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.mulish-normal-white-14px {
+  color: white;
+  font-family: "Mulish", Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+.mulish-semi-bold-concrete-20px {
+  color: var(--concrete);
+  font-family: "Mulish", Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+}
+:root {
+  --bright-gray: rgba(58, 66, 74, 1);
+  --concrete: rgba(242, 242, 242, 1);
+  --dodger-blue: rgba(24, 144, 255, 1);
+  --gray: rgba(145, 145, 145, 1);
+  --hawkes-blue: rgba(221, 226, 255, 1);
+  --mercury: rgba(229, 229, 229, 1);
+  --my-sin: rgba(255, 176, 24, 1);
+  --river-bed: rgba(69, 79, 89, 1);
+  --white: rgba(255, 255, 255, 0.5);
+}
+a {
+  text-decoration: none;
+  display: contents;
+}
